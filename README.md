@@ -1,2 +1,2 @@
 # photonust
-Rust -> Ray Tracer / Photon mapping
+Rust -> Ray Tracer / Photon mapping [![travis-i][]][travis-a]
